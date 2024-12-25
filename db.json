@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": "sadf",
+      "status": false,
+      "title": "learn react"
+    },
+    {
+      "id": "a5c0",
+      "status": false,
+      "title": "Выучить реакт"
+    },
+    {
+      "id": "a8a9",
+      "status": false,
+      "title": "Выучить питон"
+    },
+    {
+      "id": "2e75",
+      "status": false,
+      "title": "Learn java"
+    },
+    {
+      "id": "69fd",
+      "status": false,
+      "title": "learn redux"
+    }
+  ]
+}
